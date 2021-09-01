@@ -786,7 +786,7 @@ async def about_me(message):
         "<b>Torrent Download Engine:-</b> <code>qBittorrent [4.3.0 fix active]</code> \n"
         "<b>Direct Link Download Engine:-</b> <code>aria2</code> \n"
         "<b>Upload Engine:-</b> <code>RCLONE</code> \n"
-        "<b>Youtube Download Engine:-</b> <code>youtube-dl</code>\n"
+        "<b>Youtube Download Engine:-</b> <code>yt-dlp</code>\n"
         f"<b>Rclone config:- </b> <code>{rclone_cfg}</code>\n"
         f"<b>Leech:- </b> <code>{leen}</code>\n"
         f"<b>Rclone:- </b> <code>{rclone}</code>\n"
